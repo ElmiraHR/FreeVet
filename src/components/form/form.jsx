@@ -46,7 +46,6 @@ const Form = () => {
   return (
     <div className={s.form}>
       <h2>Создать новый аккаунт</h2>
-
       {/* Бокс для загрузки изображения */}
       <div className={s.imageBox}>
         <input
